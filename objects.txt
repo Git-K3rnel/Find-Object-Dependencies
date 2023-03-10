@@ -1,1 +1,2 @@
 Enter your Object IPs in this list
+for example : 192.168.1.1
